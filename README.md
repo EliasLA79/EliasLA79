@@ -1,0 +1,7 @@
+- 👋 Hola, soy Elías, soy de México aunque sé un poco de Inglés
+- 👀 Me gusta la música, los videojuegos, la programación, las matemáticas y la física. Se programar de manera básica en python e incluso hacer interfaces de usuario.
+- 🌱 Actualmente estoy estudiando programación en línea por lo que estoy aprendiendo a usar el C++.
+- 💞️ Voy a empezar con proyectos simples por el momento.
+- 📫 Mi correo es elias.leon7911@gmail.com
+- 😄 Pronombres: El pepinazo
+- ⚡ Dato curioso: A pesar de que me gusten puedo integrar, derivar e incluso resolver ciertas ecuaciones diferenciales, no puedo hacer sumas, restas ni multiplicaciones mentales. 
